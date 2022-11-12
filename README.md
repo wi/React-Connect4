@@ -1,6 +1,9 @@
 This project was bootstrapped with
 [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo
+If you'd like to see this website in action check out https://wi.github.io/React-Connect4/
+
 ## Available Scripts
 
 In the project directory, you can run:
